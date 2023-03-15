@@ -6,7 +6,8 @@
 * Подсчет дней с наибольшим количеством продаж
 
 
-*Разработан на * [JDK 17](https://openjdk.org/projects/jdk/17/)
+*Разработан на:*
+[JDK 17](https://openjdk.org/projects/jdk/17/)
 
  Фрагмент кода:
 ```java
